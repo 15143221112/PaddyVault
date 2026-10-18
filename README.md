@@ -7,6 +7,10 @@
 
 ---
 
+<p align="center">
+  <img src="docs/assets/structure.svg" alt="PaddyVault 结构" width="720"/>
+</p>
+
 ## 🌟 为什么是 PaddyVault？
 
 东北寒地水稻种植，靠的是"细节"——差一个积温带、差一个冷害等级、差一个国家标准，结论就错。但相关资料散落在 PDF、旧书籍、碎片问答里，找起来极其痛苦。
